@@ -1,0 +1,14 @@
+[2025-11-23 14:08:46] [SERVER] arittro has left the chat.
+[2025-11-23 14:08:48] [SERVER] khorshed has left the chat.
+[2025-11-23 15:07:09] [SERVER] khorshed has joined the chat.
+[2025-11-23 15:07:29] [SERVER] arittro has joined the chat.
+[2025-11-23 15:07:55] <khorshed>: hlw
+[2025-11-23 15:08:02] <arittro>: hi
+[2025-11-23 15:08:30] <arittro>: ki khobr
+[2025-11-23 15:08:41] [SERVER] arittro has left the chat.
+[2025-11-23 15:08:43] [SERVER] khorshed has left the chat.
+[2025-11-23 15:17:00] [SERVER] khorshed has joined the chat.
+[2025-11-23 15:17:18] [SERVER] arittro has joined the chat.
+[2025-11-23 15:54:41] <arittro>: hlw
+[2025-11-23 15:54:45] <khorshed>: hi
+[2025-11-23 15:55:08] [SERVER] arittro has left the chat.
